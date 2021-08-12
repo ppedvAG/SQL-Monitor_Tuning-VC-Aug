@@ -1,0 +1,4 @@
+--1. eigene HDDs
+--2. Fixer RAM in virt Umgebung
+--3. bilde die Sockel in der vc genauso abwie iauf dem Host
+		--NUMA
