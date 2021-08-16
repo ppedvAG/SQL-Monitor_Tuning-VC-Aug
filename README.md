@@ -6,12 +6,16 @@
 * DB Settings und DB Design
 * Seiten Blöcke
 * Partitionierung
+* MAXDOP
 
 # Tag 2
 * Wiederholung
 * Aktivierung der Messaufzeichnungen
 * Profiler, Perfmon, Systemsichten, Datacollector
-* Indizes
+* XEvents
+* Indizes + ColumnStore
+* Zeilenversionierung, Momentaufnahmenisolation
 * Indizes --> Sperren IO RAM CPU
 * Auswertung
+* OSwait_Stats
  
